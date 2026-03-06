@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    background-color: beige;
+    margin: 0px;
+    padding: 0px;
+}
+
+.title {
+    margin: 0px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: lightskyblue;
+    width: 100%;
+    text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: blueviolet;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+}
+
+li {
+    margin: 10px;
+}
